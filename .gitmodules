@@ -1,0 +1,3 @@
+[submodule "All/fruit-pro"]
+	path = All/fruit-pro
+	url = https://github.com/prakashsMita/msr.git
